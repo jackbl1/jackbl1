@@ -4,7 +4,7 @@ Hi, I'm Jack, a software engineer at Microsoft on the Experimentation Platform t
 
 # Interests
 
-I am currently learning front-end UX technologies. Specifically I am studying React, Redux, Observables, Thunk, and other libraries.
+I am currently studying Web3 technologies and working on side projects to gain engineering experience in blockchain, smart contracts and solidity.
 
 # Contact
 
