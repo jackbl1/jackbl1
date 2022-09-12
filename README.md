@@ -1,10 +1,6 @@
 # Intro
 
-Hi, I'm Jack, a software engineer at Microsoft on the Experimentation Platform team. I currently work as a fullstack engineer with a background in cloud architecture and microservices.
-
-# Interests
-
-I am currently studying Web3 technologies and working on side projects to gain engineering experience in blockchain, smart contracts and solidity.
+Hi, I'm Jack, I was formerly a software engineer at Microsoft and I recently quit my job to work full time on Web3 projects.
 
 # Contact
 
