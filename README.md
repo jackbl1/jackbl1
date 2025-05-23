@@ -1,6 +1,6 @@
 # Intro
 
-Blockchain, AI & beautiful software
+Software developer
 
 https://jackbl1.github.io/
 
